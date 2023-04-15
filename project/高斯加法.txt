@@ -1,0 +1,8 @@
+class Solution:
+    def sumNums(self, n: int) -> int:
+        return sum(range(1, n+1))
+
+作者：ting-ting-28
+链接：https://leetcode.cn/problems/qiu-12n-lcof/solution/python3-jian-dan-qiu-he-by-ting-ting-28-auws/
+来源：力扣（LeetCode）
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
